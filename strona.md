@@ -1,7 +1,9 @@
 [gildie_id]: #gildie 
 [bronie_id]: #bronie
 [paladyn_id]: #strażnikpaladyn
-[runy_leczące]: #
+[kwiatki_id]: #kwiatki
+[korzen_id]: #smoczy-korzeń
+
 
 
 
@@ -17,6 +19,8 @@
 [__Gildie__][gildie_id]
 
 [__Bronie__][bronie_id]
+
+[__Kwiatki__][kwiatki_id]
 
 
 
@@ -86,3 +90,16 @@ __Bronie Strażnika/Paladyna__
 
 
 # Bronie
+
+# Kwiatki
+
+[Smoczy Korzeń][korzen_id]
+
+# Smoczy Korzeń
+
+____Khorinis/Fort Azgan/Las Asasynów/Etlu____
+![p1](https://i.imgur.com/dj7kFHY.png "W lewej odnodze jaskini pod Słonecznym Kręgiem ")
+
+![p2](https://i.imgur.com/U3UgYOL.png "w jaskini z Atramentorem na wykopaliskach Magów Wody")
+
+![p3]()
