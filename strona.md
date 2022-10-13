@@ -102,4 +102,12 @@ ____Khorinis/Fort Azgan/Las Asasynów/Etlu____
 
 ![p2](https://i.imgur.com/U3UgYOL.png "w jaskini z Atramentorem na wykopaliskach Magów Wody")
 
-![p3]()
+![p3](https://i.imgur.com/MXB64QR.png "Przy ścianie na polanie nad farmą Akila")
+
+![p4](https://i.imgur.com/TYjEx0y.png "Na polanie ze zniszczoną wieżą nad Niclasem")
+
+![p5](https://i.imgur.com/IeCW59o.png "Przy murze miasta na wschód obok kretoszczura")
+
+[Powrót do korzenia][korzen_id]
+
+![p6](https://i.imgur.com/bOpntM9_d.webp?maxwidth=1520&fidelity=grand "W gnieździe polnych bestii")
