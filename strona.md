@@ -3,6 +3,7 @@
 [paladyn_id]: #strażnikpaladyn
 [kwiatki_id]: #kwiatki
 [korzen_id]: #smoczy-korzeń
+[test_id]: #korzeń
 
 
 
@@ -21,6 +22,8 @@
 [__Bronie__][bronie_id]
 
 [__Kwiatki__][kwiatki_id]
+
+[KORZEŃ][test_id]
 
 
 
@@ -111,3 +114,8 @@ ____Khorinis/Fort Azgan/Las Asasynów/Etlu____
 [Powrót do korzenia][korzen_id]
 
 ![p6](https://i.imgur.com/bOpntM9_d.webp?maxwidth=1520&fidelity=grand "W gnieździe polnych bestii")
+
+# Korzeń
+
+
+[Przy ścianie na polanie nad farmą Akila](https://i.imgur.com/MXB64QR.png)
