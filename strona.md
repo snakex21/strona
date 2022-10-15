@@ -17,82 +17,10 @@
 
 
 # ___Menu___
-[__Gildie__][gildie_id]
-
-[__Bronie__][bronie_id]
 
 [__Kwiatki__][kwiatki_id]
 
-[KORZEŃ][test_id]
 
-
-
-
-
-
-
-
-
-
-
-
-# Gildie
-[__Strażnik/Paladyn__][paladyn_id]
-## Strażnik/Paladyn
----
-___Informacje ogólne___
-
-![zdjęcie 1](./Przechwytywanie.PNG "Informacje ogólne")
-
-____Dar Specjalny____
-
-![zdjęcie 2](./Przechwytywanie2.PNG "Informacje ogólne") 
-
-___Konserwacja Miecza___
-
-![zdjęcie 3](./Przechwytywanie3.PNG "Informacje ogólne") 
-
-___Prezentacja Run___
-
-![zdjęcie 4](./Przechwytywanie4.PNG "Informacje ogólne") 
-
-__Runy Leczące__
-
-![zdjęcie 5](Przechwytywanie5.PNG) 
-![zdjęcie 6](Przechwytywanie6.PNG)
-
-[__powrót do kategorii__][paladyn_id]
-
-__Runy Atakujące__
-
-![zdjęcie 7](./Przechwytywanie7.PNG "Informacje ogólne")
-![zdjęcie 6](./Przechwytywanie6.PNG "Informacje ogólne")
-
-[__powrót do kategorii__][paladyn_id]
-
-__Pancerze Strażnika/Palladyna__
-
-![zdjęcie 8](./Przechwytywanie8.PNG "Informacje ogólne")
-![zdjęcie 10](./Przechwytywanie10.PNG "Informacje ogólne")
-![zdjęcie 11](./Przechwytywanie11.PNG "Informacje ogólne")
-![zdjęcie 12](./Przechwytywanie12.PNG "Informacje ogólne")
-![zdjęcie 13](./Przechwytywanie13.PNG "Informacje ogólne")
-![zdjęcie 14](./Przechwytywanie14.PNG "Informacje ogólne")
-![zdjęcie 15](./Przechwytywanie15.PNG "Informacje ogólne")
-![zdjęcie 16](./Przechwytywanie16.PNG "Informacje ogólne")
-![zdjęcie 17](./Przechwytywanie17.PNG "Informacje ogólne")
-![zdjęcie 18](./Przechwytywanie18.PNG "Informacje ogólne")
-![zdjęcie 19](./Przechwytywanie19.PNG "Informacje ogólne")
-
-[__powrót do kategorii__][paladyn_id]
-
-__Bronie Strażnika/Paladyna__
-
-![zdjęcie 9](./Przechwytywanie9.PNG "Informacje ogólne")
-
-
-
-# Bronie
 
 # Kwiatki
 
@@ -101,21 +29,24 @@ __Bronie Strażnika/Paladyna__
 # Smoczy Korzeń
 
 ____Khorinis/Fort Azgan/Las Asasynów/Etlu____
-![p1](https://i.imgur.com/dj7kFHY.png "W lewej odnodze jaskini pod Słonecznym Kręgiem ")
 
-![p2](https://i.imgur.com/U3UgYOL.png "w jaskini z Atramentorem na wykopaliskach Magów Wody")
+1.<span style="color:#FF0000"> W lewej odnodze jaskini pod Słonecznym Kręgiem [zdjęcie](https://i.imgur.com/U3UgYOL.png) 
 
-![p3](https://i.imgur.com/MXB64QR.png "Przy ścianie na polanie nad farmą Akila")
+2.<span style="color:#FF0000"> w jaskini z Atramentorem na wykopaliskach Magów Wody [zdjęcie](https://i.imgur.com/dj7kFHY.png)
 
-![p4](https://i.imgur.com/TYjEx0y.png "Na polanie ze zniszczoną wieżą nad Niclasem")
+3.<span style="color:#FF0000"> Przy ścianie na polanie nad farmą Akila [zdjęcie](https://i.imgur.com/MXB64QR.png)
 
-![p5](https://i.imgur.com/IeCW59o.png "Przy murze miasta na wschód obok kretoszczura")
+4.<span style="color:#FF0000"> Na polanie ze zniszczoną wieżą nad Niclasem [zdjęcie](https://i.imgur.com/MXB64QR.png)
 
-[Powrót do korzenia][korzen_id]
+5.<span style="color:#FF0000"> Przy murze miasta na wschód obok kretoszczura [zdjęcie](https://i.imgur.com/MXB64QR.png)
 
-![p6](https://i.imgur.com/bOpntM9_d.webp?maxwidth=1520&fidelity=grand "W gnieździe polnych bestii")
+6.<span style="color:#FF0000"> W gnieździe polnych bestii [zdjęcie](https://i.imgur.com/MXB64QR.png)
 
-# Korzeń
+7.<span style="color:#FF0000">
 
+8.<span style="color:#FF0000">
 
-[Przy ścianie na polanie nad farmą Akila](https://i.imgur.com/MXB64QR.png)
+9.<span style="color:#FF0000">
+
+10.<span style="color:#FF0000">
+
