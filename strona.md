@@ -25,6 +25,7 @@
 
 [__Szczaw Królewski__][szczaw_id]
 
+[__powrót do menu__][kwiatki_id]
 
 
 # Kwiatki
@@ -91,7 +92,9 @@ ____Khorinis/Fort Azgan/Las Asasynów/Etlu____
 
 16.<span style="color:#FF0000"> Irdorath przed hersztem obok Pedro
 
-[__powrót do menu__][menu_id]
+[__powrót do Menu__][menu_id]
+
+[__powrót do Kategorii Kwiatki__][kwiatki_id]
 
 ___Zachodnie Wybrzeże___
 
@@ -121,7 +124,9 @@ ___Jarkendar/Pustynia Adanosa___
 
 8.<span style="color:#FF0000"> Przy kamiennym filarze przy jednej z oaz na Pustyni Adanosa
 
-[__powrót do menu__][menu_id]
+[__powrót do Menu__][menu_id]
+
+[__powrót do Kategorii Kwiatki__][kwiatki_id]
 
 
 ___Górnicza Dolina i jej podlokacje___
@@ -142,7 +147,9 @@ ___Górnicza Dolina i jej podlokacje___
 
 8.<span style="color:#FF0000"> Na polanie z trollem między środkiem mapy, a przejściem do jeziora w Dolinie Cieni
 
-[__powrót do menu__][menu_id]
+[__powrót do Menu__][menu_id]
+
+[__powrót do Kategorii Kwiatki__][kwiatki_id]
 
 
 # Szczaw Królewski
@@ -231,6 +238,10 @@ Constantino (1 sztuka)
 
 28.<span style="color:#66CDAA"> Za drzewem obok jaskini z goblinami w Forcie Azgan
 
+[__powrót do Menu__][menu_id]
+
+[__powrót do Kategorii Kwiatki__][kwiatki_id]
+
 
 
 
@@ -240,4 +251,7 @@ Constantino (1 sztuka)
 
 16.10.2022 21:06 - dodano listę Szczawu królewskiego tylko w Khorinis.
 
+16.10.2022 21:11 - dodano szybki powrót do menu i kategorii kwiatki
+
 [__powrót do menu__][menu_id]
+
