@@ -6,6 +6,7 @@
 [test_id]: #korzeń
 [aktualizacje_id]: #aktualizacje
 [menu_id]: #menu
+[szczaw_id]: #szczaw-królewski
 
 
 
@@ -22,11 +23,15 @@
  
 [__Aktualizacje__][aktualizacje_id]
 
+[__Szczaw Królewski__][szczaw_id]
+
 
 
 # Kwiatki
 
-[Smoczy Korzeń][korzen_id]
+[__Smoczy Korzeń__][korzen_id]
+
+[__Szczaw Królewski__][szczaw_id]
 
 # Smoczy Korzeń
 
@@ -140,8 +145,99 @@ ___Górnicza Dolina i jej podlokacje___
 [__powrót do menu__][menu_id]
 
 
+# Szczaw Królewski
+
+____Khorinis/Fort Azgan/Las Asasynów/Etlu____
+
+1.<span style="color:#66CDAA"> Na półce skalnej pod Niclasem (Trzeba zeskoczyć w dół) [zdjęcie](https://imgur.com/mcutYlQ)
+
+2.<span style="color:#66CDAA"> Na urwisku między bandytami na moście obok Akila, a Rangarem [zdjęcie](https://imgur.com/6gFbgUw)
+
+3.<span style="color:#66CDAA"> Przed wejściem na zwodzony most do fortu obok wiezy Nergala
+
+4.<span style="color:#66CDAA"> W jaskini z cieniostworami pod mostem na wykopaliska Magów Wody [zdjęcie](https://imgur.com/orOYTBr)
+
+5.<span style="color:#66CDAA"> Za latarnią Jacka [zdjęcie](https://imgur.com/6JnZaGd)
+
+6.<span style="color:#66CDAA"> Za drzewem na końcu kotliny, po prawo od wschodniej bramy miasta [zdjęcie](https://imgur.com/rdZZQmd)
+
+7.<span style="color:#66CDAA"> Przy trolu w górach obok Wieży Xardasa [zdjęcie](https://imgur.com/2jsPOe0)
+
+8.<span style="color:#66CDAA"> Na końcu polany z trollami nad leżem Czarnego Trolla [zdjęcie](https://imgur.com/2XUmpF6)
+
+9.<span style="color:#66CDAA"> Przy ścianie przy drzewie miedzy wykopaliskami, a polaną trolii [zdjęcie](https://imgur.com/0nZH2U1)
+
+10.<span style="color:#66CDAA"> Przy skale obok szkieletów za farmą Onara [zdjęcie](https://imgur.com/LciQ8B8)
+
+11.<span style="color:#66CDAA"> Przy kamiennym kręgu obok Lobarta (Tylko po rozmowie z Zurisem) [zdjęcie](https://imgur.com/hvloMZ0)
+
+12.<span style="color:#66CDAA"> Dostajemy od Lestera, za przyznanie mu Mroku Północy 
+
+13.<span style="color:#66CDAA"> Sprzedawcy:
+
+<span style="color:#66CDAA"> 1 Rozdział :
+
+<span style="color:#66CDAA">Sagitta (1 sztuka)
+
+<span style="color:#66CDAA">2 Rozdział:
+
+<span style="color:#66CDAA">Salandril/Sagitta/Zuris (1 sztuka)
+
+<span style="color:#66CDAA">3 Rozdział:
+
+<span style="color:#66CDAA"> Miguel/Constantino/Fregyal/Zuris (1 sztuka)
+
+<span style="color:#66CDAA"> 4 Rozdział:
+
+<span style="color:#66CDAA"> Sagitta/Zuris/
+Constantino (1 sztuka)
+
+<span style="color:#66CDAA"> 5 Rozdział:
+
+<span style="color:#66CDAA"> Sagitta/Fregyal/Lutero (1 sztuka)
+
+<span style="color:#66CDAA"> 6 Rozdział:
+
+<span style="color:#66CDAA">Vatras (2 sztuki) Milten (1 sztuka)
+
+
+14.<span style="color:#66CDAA"> Sprzedaje Constantino (Po oddaniu mu ziół na czeladnika)
+
+15.<span style="color:#66CDAA"> Na cmentarzu obok Martwej Harpii (2 rozdział) [zdjęcie](https://imgur.com/frAQjwt)
+
+16.<span style="color:#66CDAA"> Sprzedaje Constantino, po sprzedaniu mu przepisu na Amun-Su (Tylko Strażnik Świątynny/Guru)
+
+17.<span style="color:#66CDAA"> Na Etlu na skałkach obok kaplicy
+
+18.<span style="color:#66CDAA"> Sprzedaje Nigel po ukończeniu wątku kupców
+
+19.<span style="color:#66CDAA"> Sprzedaje Sara po ukończeniu wątku kupców
+
+20.<span style="color:#66CDAA"> Na łuku skalnym nad Gonzalesem w Lesie Asasynów
+
+21.<span style="color:#66CDAA">Niedaleko wyjścia z kopalni z Lasu Asasynów
+
+22.<span style="color:#66CDAA"> Za zadanie "Kłopot Rayne'a" w forcie Azgan
+
+23.<span style="color:#66CDAA"> Na górce z krwiopijcami w Forcie Azgan
+
+24.<span style="color:#66CDAA"> Na dużej polanie nad plażą w Forcie Azgan
+
+25.<span style="color:#66CDAA"> Za zadanie "Obawy Sagitty" (3 rozdział)
+
+26.<span style="color:#66CDAA"> Za przyniesieni Isgarothowi wiadomości od Vatrasa (2 rozdział)
+
+27.<span style="color:#66CDAA"> Sprzedaje Baal Cyon, po zrobieniu magicznego eliksiru (Tylko Strażnik Świątynny/Guru)
+
+28.<span style="color:#66CDAA"> Za drzewem obok jaskini z goblinami w Forcie Azgan
+
+
+
+
 # Aktualizacje
 
 16.10.2022 13:45 - dodano całą listę smoczego korzenia (lecz niedokładną pod względę szybkich linków) i powrót do menu
+
+16.10.2022 21:06 - dodano listę Szczawu królewskiego tylko w Khorinis.
 
 [__powrót do menu__][menu_id]
