@@ -28,7 +28,7 @@
 
 [__Słoneczny Aloes__][aloes_id]
 
-[__Trolest__]
+[__Trolest__][trolest_id]
 
 
 # Kwiatki
@@ -391,6 +391,7 @@ __Górnicza Dolina i jej podlokacje__
 
 16.10.2022 15:48 - dodano Słoneczny Aloes
 
-16.10.2022  - dodano Trolest
+16.10.2022 16:53 - dodano Trolest
 
 [__powrót do menu__][menu_id]
+
