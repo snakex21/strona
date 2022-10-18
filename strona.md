@@ -108,17 +108,17 @@ ___Zachodnie Wybrzeże___
 
 ___Jarkendar/Pustynia Adanosa___
 
-1.<span style="color:#FF0000"> Przy kaktusie przy przejściu do Zapomnianego Kanionu
+1.<span style="color:#FF0000"> Przy kaktusie przy przejściu do Zapomnianego Kanionu [zdjęcie](https://imgur.com/a/LxBoXcj)
 
-2.<span style="color:#FF0000"> W zatopionej jaskini z topielcami za Owenem
+2.<span style="color:#FF0000"> W zatopionej jaskini z topielcami za Owenem [zdjęcie](https://imgur.com/a/WqoVVlZ)
 
-3.<span style="color:#FF0000"> Przed grobowcem Quahodrona, na jednej z pólek skalnych
+3.<span style="color:#FF0000"> Przed grobowcem Quahodrona, na jednej z pólek skalnych [zdjęcie](https://imgur.com/a/Tq2p70O)
 
-4.<span style="color:#FF0000"> Przy drewnianej kładce obok chaty Eremity
+4.<span style="color:#FF0000"> Przy drewnianej kładce obok chaty Eremity [zdjęcie](https://imgur.com/a/C0ENSfp)
 
-5.<span style="color:#FF0000"> W małych ruinach z orkiem, po drodze do świątyni ze szczurami
+5.<span style="color:#FF0000"> W małych ruinach z orkiem, po drodze do świątyni ze szczurami [zdjęcie](https://imgur.com/a/txQdGwa)
 
-6.<span style="color:#FF0000"> w świątyni z goblinami
+6.<span style="color:#FF0000"> W świątyni z goblinami [zdjęcie](https://imgur.com/a/F532FTf)
 
 7.<span style="color:#FF0000"> Za skałką obok miejsca, gdzie wsadzamy kawałki ornamentów z oaz na Pustyni Adanosa
 
@@ -238,6 +238,40 @@ Constantino (1 sztuka)
 
 28.<span style="color:#66CDAA"> Za drzewem obok jaskini z goblinami w Forcie Azgan
 
+__Zachodnie Wybrzeże__
+
+
+
+__Jarkendar/Pustynia Adanosa__
+
+1.<span style="color:#66CDAA"> Pod namiotem przed wejściem do zapomnianego kanionu [zdjęcie](https://imgur.com/a/Acmt41c)
+
+2.<span style="color:#66CDAA"> Przy wieży z bandytami obok obozu piratów [zdjęcie](https://imgur.com/a/DVExre0) 
+
+3.<span style="color:#66CDAA"> W ruinach przy Edgorze na bagnie [zdjęcie](https://imgur.com/a/PhppcP0)
+
+4.<span style="color:#66CDAA"> Przy drzewie między Endgorem a jaskinią  Juana [zdjęcie](https://imgur.com/a/xQBs5go)
+
+5.<span style="color:#66CDAA"> Przy skarpie między wykopaliskami a bagnem [zdjęcie](https://imgur.com/a/CoQJsGq)
+
+6.<span style="color:#66CDAA"> Przy Filarze przed świątynią na bagnie [zdjęcie](https://imgur.com/a/CeQLSsZ)
+
+7.<span style="color:#66CDAA"> Sprzedaje Miguel (3 rozdział)
+
+8.<span style="color:#66CDAA"> Na Pustyni Adanosa między palmami, które są na lewo od drzewa, naprzeciw wejścia do lokacji [zdjęcie](https://imgur.com/pp1R32r)
+
+9.<span style="color:#66CDAA"> Za palmą na prawo od Dużej Piramidy na Pustyni Adanosa [zdjęcie](https://imgur.com/qCCPemz)
+
+10.<span style="color:#66CDAA"> W ruinach niedaleko wejścia do jaskini ze smoczym jajem na Pustyni Adanosa [zdjęcie](https://imgur.com/OdNLF7L)
+
+11.<span style="color:#66CDAA"> Wypada z Ur-Catana (4 rozdział)
+
+12.<span style="color:#66CDAA">
+
+__Górnicza Dolina i jej podlokacje__
+
+
+
 [__powrót do Menu__][menu_id]
 
 [__powrót do Kategorii Kwiatki__][kwiatki_id]
@@ -253,5 +287,6 @@ Constantino (1 sztuka)
 
 16.10.2022 21:11 - dodano szybki powrót do menu i kategorii kwiatki
 
+18.10.2022 14:03 - dodano zdjęcia smoczego korzenia w jankhendarze a w smoczym korzeniu dodano jankendar z pełnymi informacjami
+ 
 [__powrót do menu__][menu_id]
-
