@@ -8,7 +8,7 @@
 [menu_id]: #menu
 [szczaw_id]: #szczaw-królewski
 [aloes_id]: #słoneczny-aloes
-
+[trolest_id]: #trollest
 
 
 
@@ -27,6 +27,8 @@
 [__Szczaw Królewski__][szczaw_id]
 
 [__Słoneczny Aloes__][aloes_id]
+
+[__Trolest__]
 
 
 # Kwiatki
@@ -327,11 +329,57 @@ __Górnicza Dolina i jej podlokacje__
 
 3.<span style="color:#8A2BE2"> Za Azgalorem w Dolinie Cienia 
 
+[__powrót do Menu__][menu_id]
+
+[__powrót do Kategorii Kwiatki__][kwiatki_id]
+
 # Trollest
 
 __Khorinis/Fort Azgan/Las Asasynów/ETLU__
 
+1.<span style="color:#FF8C00"> Przy drzewie na Polanie Trolli obok Farmy Onara [zdjęcie](https://imgur.com/8CHTSRl)
 
+2.<span style="color:#FF8C00"> W leżu Czarnego Trolla [zdjęcie](https://imgur.com/PCcHVTb)
+
+3.<span style="color:#FF8C00"> Za drzewem na półce skalnej z bossem Yebakiem nad Mrocznym Lasem [zdjęcie](https://imgur.com/6gFbgUw)
+
+4.<span style="color:#FF8C00"> Za drzewem na półce skalnej, między wykopaliskami Magów Wody, a jeziorem [zdjęcie](https://imgur.com/xhdaooB) 
+
+5.<span style="color:#FF8C00"> Na polanie z Mrocznymi Zębaczami naprzeciw wejścia na wykopaliska Magów Wody [zdjęcie](https://imgur.com/rdZZQmd)
+
+6.<span style="color:#FF8C00"> Pośród Trolli za Gromem (tylko po wzięciu zadania od Ragnara)
+
+7.<span style="color:#FF8C00"> Na górce z krwiopijcami w Forcie Azgan
+
+8.<span style="color:#FF8C00"> Za drzewem na ścieżce prowadzącej do plaży w Forcie Azgan
+
+9.<span style="color:#FF8C00"> W lesie Asasynów podczas zadania "Wierni ludzie"
+
+__Zachodnie Wybrzeże__
+
+1.<span style="color:#FF8C00"> Przy jeziorku obok Ruin prowadzących na równine
+
+2.<span style="color:#FF8C00"> W Kanionie Trolli na Równinie
+
+__Jarkendar/Pustynia Adanosa__
+
+1.<span style="color:#FF8C00"> Przy Czarnym Trollu
+
+2.<span style="color:#FF8C00"> Przed schodami do jaskini łączącej kanion z bagnem
+
+3.<span style="color:#FF8C00"> Przy dwóch palmach, niedaleko drzewa życia i miejsca na jajo
+
+__Górnicza Dolina i jej podlokacje__
+
+1.<span style="color:#FF8C00"> Za drzewem obok drewnianego daszku. między Lodowym Biomem, a bandytą Grubym [zdjęcie](https://imgur.com/j2P5MlW)
+
+2.<span style="color:#FF8C00"> Za wieżą strażniczą obok kopalni Fajetha [zdjęcie](https://imgur.com/YZN0cj4)
+
+3.<span style="color:#FF8C00"> Między palisadą, a północnym wyjściem ze Starego Obozu [zdjęcie](https://imgur.com/JSA6ai9)
+
+[__powrót do Menu__][menu_id]
+
+[__powrót do Kategorii Kwiatki__][kwiatki_id]
 
 # Aktualizacje
 
@@ -343,5 +391,6 @@ __Khorinis/Fort Azgan/Las Asasynów/ETLU__
 
 16.10.2022 15:48 - dodano Słoneczny Aloes
 
-[__powrót do menu__][menu_id]
+16.10.2022  - dodano Trolest
 
+[__powrót do menu__][menu_id]
