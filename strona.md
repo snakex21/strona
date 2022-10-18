@@ -7,6 +7,7 @@
 [aktualizacje_id]: #aktualizacje
 [menu_id]: #menu
 [szczaw_id]: #szczaw-królewski
+[aloes_id]: #słoneczny-aloes
 
 
 
@@ -25,7 +26,7 @@
 
 [__Szczaw Królewski__][szczaw_id]
 
-[__powrót do menu__][kwiatki_id]
+[__Słoneczny Aloes__][aloes_id]
 
 
 # Kwiatki
@@ -240,7 +241,20 @@ Constantino (1 sztuka)
 
 __Zachodnie Wybrzeże__
 
+1.<span style="color:#66CDAA">Na końcu bagna, przy wejściu do Krypty
 
+2.<span style="color:#66CDAA"> Przy kamiennym kręgu, między mostem, a Jaskinią Kormaka
+
+3.<span style="color:#66CDAA"> W środku Dużej Świątyni
+
+4.<span style="color:#66CDAA"> Za bossem pełzaczy w Kanionie Pełzaczy
+
+5.<span style="color:#66CDAA"> Przy opuszczonej wieży obok Jaskini Kormaka
+
+6.<span style="color:#66CDAA"> Sprzedaje Fregyal i Kormak
+1 Sztuka (2 rozdział)
+1 Sztuka (4 rozdział)
+1 Sztuka (5 rodzdział)
 
 __Jarkendar/Pustynia Adanosa__
 
@@ -266,16 +280,56 @@ __Jarkendar/Pustynia Adanosa__
 
 11.<span style="color:#66CDAA"> Wypada z Ur-Catana (4 rozdział)
 
-12.<span style="color:#66CDAA">
-
 __Górnicza Dolina i jej podlokacje__
 
+1.<span style="color:#66CDAA"> Na plaży z Drake [zdjęcie] (https://imgur.com/o7mOUUf)
+
+2.<span style="color:#66CDAA"> Przed wejściem do Starej Kopalni [zdjęcie](https://imgur.com/X0M1OXL)
+
+3.<span style="color:#66CDAA"> Na wzniesieniu za zamarzniętym [zdjęcie](https://imgur.com/jXm9ytP)
+
+4.<span style="color:#66CDAA"> Po zejściu z przełęczy, po lewej stronie za rzeką przed orkami [zdjęcie](https://imgur.com/IuYaqm3)
+
+5.<span style="color:#66CDAA"> Na terenach naprzeciw taranu, obok Muritana [zdjęcie](https://imgur.com/JMOWaGF)
+
+6.<span style="color:#66CDAA"> Na urwisku nad podziemnym wejściem [zdjęcie](https://imgur.com/uUxYaer)
+
+7.<span style="color:#66CDAA"> Obok jaskini na drodze do Starego Obozu Bractwa [zdjęcie](https://imgur.com/cR85Klu)
+
+8.<span style="color:#66CDAA"> W kotle Wolnej Kopalni [zdjęcie](https://imgur.com/cNKUqvX) 
+
+9.<span style="color:#66CDAA"> Przy słupie teleportacyjnym obok krypty Angara [zdjęcie](https://imgur.com/NsBdZDG)
+
+10.<span style="color:#66CDAA"> W spalonej chacie niedaleko Diego [zdjęcie](https://imgur.com/Md2CBB5)
+
+11.<span style="color:#66CDAA"> Przed wejściem do Jaskini Bólu [zdjęcie](https://imgur.com/iHfchSe)
+
+12.<span style="color:#66CDAA"> Przy Cerberusie w Dolinie Cienia 
+
+13.<span style="color:#66CDAA"> Przy drzewie między Czarnym Trollem a Próbą Ognia w Dolinie Cienia [zdjęcie](https://imgur.com/cNKUqvX)
 
 
 [__powrót do Menu__][menu_id]
 
 [__powrót do Kategorii Kwiatki__][kwiatki_id]
 
+# Słoneczny Aloes
+
+___Zachodnie wybrzeże___
+
+1.<span style="color:#8A2BE2"> W kanionie Trolli na Równinie
+
+__Górnicza Dolina i jej podlokacje__
+
+1.<span style="color:#8A2BE2"> Obok trolla przy Opuszczonej Kopalni nad przełęczą [zdjęcie](https://imgur.com/sUuiZIK)
+
+2.<span style="color:#8A2BE2"> Przy trollach Netbeka, nad Starym Obozem Bractwa [zdjęcie](https://imgur.com/IylPxrt)
+
+3.<span style="color:#8A2BE2"> Za Azgalorem w Dolinie Cienia 
+
+# Trollest
+
+__Khorinis/Fort Azgan/Las Asasynów/ETLU__
 
 
 
@@ -287,6 +341,7 @@ __Górnicza Dolina i jej podlokacje__
 
 16.10.2022 21:11 - dodano szybki powrót do menu i kategorii kwiatki
 
-18.10.2022 14:03 - dodano zdjęcia smoczego korzenia w jankhendarze a w smoczym korzeniu dodano jankendar z pełnymi informacjami
- 
+16.10.2022 15:48 - dodano Słoneczny Aloes
+
 [__powrót do menu__][menu_id]
+
