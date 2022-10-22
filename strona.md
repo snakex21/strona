@@ -123,9 +123,9 @@ ___Jarkendar/Pustynia Adanosa___
 
 6.<span style="color:#FF0000"> W świątyni z goblinami [zdjęcie](https://imgur.com/a/F532FTf)
 
-7.<span style="color:#FF0000"> Za skałką obok miejsca, gdzie wsadzamy kawałki ornamentów z oaz na Pustyni Adanosa
+7.<span style="color:#FF0000"> Za skałką obok miejsca, gdzie wsadzamy kawałki ornamentów z oaz na Pustyni Adanosa [zdjęcie](https://imgur.com/a/ljeaO8j)
 
-8.<span style="color:#FF0000"> Przy kamiennym filarze przy jednej z oaz na Pustyni Adanosa
+8.<span style="color:#FF0000"> Przy kamiennym filarze przy jednej z oaz na Pustyni Adanosa [zdjęcie](https://imgur.com/a/njVsmK7)
 
 [__powrót do Menu__][menu_id]
 
@@ -391,7 +391,7 @@ __Górnicza Dolina i jej podlokacje__
 
 16.10.2022 15:48 - dodano Słoneczny Aloes
 
-16.10.2022 16:53 - dodano Trolest
+16.10.2022  - dodano Trolest
 
 [__powrót do menu__][menu_id]
 
