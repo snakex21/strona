@@ -24,18 +24,16 @@
  
 [__Aktualizacje__][aktualizacje_id]
 
-[__Szczaw Królewski__][szczaw_id]
-
-[__Słoneczny Aloes__][aloes_id]
-
-[__Trolest__][trolest_id]
-
 
 # Kwiatki
 
 [__Smoczy Korzeń__][korzen_id]
 
 [__Szczaw Królewski__][szczaw_id]
+
+[__Słoneczny Aloes__][aloes_id]
+
+[__Trolest__][trolest_id]
 
 # Smoczy Korzeń
 
@@ -393,5 +391,9 @@ __Górnicza Dolina i jej podlokacje__
 
 16.10.2022  - dodano Trolest
 
+22.10.2022 21:33 - dodano 2 zdjęcia do smoczego korzenia w jankhendarze
+
+
 [__powrót do menu__][menu_id]
+
 
